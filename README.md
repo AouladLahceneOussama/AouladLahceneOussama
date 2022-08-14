@@ -10,7 +10,7 @@
 ## 📫 Connect with me
 
 
-<img alt="Linkedin" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)" style="padding:10px;" />
+<img alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding:10px;" />
 [https://www.linkedin.com/in/oussamaaouladlahcene/]
 
 

@@ -14,6 +14,8 @@
 [oussamaaouladlahcene](https://www.linkedin.com/in/oussamaaouladlahcene/)
 This site was built using [GitHub Pages](https://pages.github.com/).
 
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="26px"/>](https://www.linkedin.com/in/oussamaaouladlahcene/)
+
 ## 🔧 Languages and Tools
 
 <p align="center">

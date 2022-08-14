@@ -14,7 +14,7 @@
 ## 🔧 Languages and Tools
 
 - Frontend
-<p style="padding-left:50px;">
+<p style="padding-left:300px;">
 <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:0 30px;" />
 <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:0 30px;" />
 <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:0 30px;" />

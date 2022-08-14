@@ -13,7 +13,7 @@
 
 ## 🔧 Languages and Tools
 
-<p align="center">
+
   
 - Frontend
 <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:30px;" />
@@ -42,4 +42,4 @@
 <img alt="Slack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding:30px;" />
 <br />
   
-</p>
+

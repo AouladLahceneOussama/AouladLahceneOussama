@@ -11,7 +11,7 @@
 
 
 <img alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding:10px;" />
-[https://www.linkedin.com/in/oussamaaouladlahcene/]
+https://www.linkedin.com/in/oussamaaouladlahcene/
 
 
 ## 🔧 Languages and Tools

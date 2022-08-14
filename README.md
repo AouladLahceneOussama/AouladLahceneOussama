@@ -9,14 +9,10 @@
 
 ## 📫 Connect with me
 
-[![website](./img/globe-light.svg)](+212625048442)
-[![website](./img/globe-dark.svg)](+212625048442)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yassine-chtiaa-32a34b200/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yassine-chtiaa-32a34b200/)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/chtiaayassine/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/chtiaayassine/)
+
+<img alt="Linkedin" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)" style="padding:10px;" />
+[https://www.linkedin.com/in/oussamaaouladlahcene/]
+
 
 ## 🔧 Languages and Tools
 
@@ -41,6 +37,3 @@
 
 <br />
 </p>
-
-
-[linkedin]: https://www.linkedin.com/in/oussamaaouladlahcene/

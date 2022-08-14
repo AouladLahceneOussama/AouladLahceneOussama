@@ -2,7 +2,7 @@
 
 ## ✨ I'm a Software Engineer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning  & practicing a lot of things 😶
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about javascript and its Frameworks
 - ⚡ Fun fact: I love to travel and descover new places and cultures
